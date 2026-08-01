@@ -8,4 +8,4 @@ Source code for the official Alva website
 - Vite - bundler and build tool
 - Cloudflare workers - hosting
 
-Metrolist by [@andrémiguel](https://www.instagram.com/chvxra_lx?igsh=OXBwcHE1cDE4cWEz), website by [@andrémiguel](https://www.instagram.com/chvxra_lx?igsh=OXBwcHE1cDE4cWEz) with improvements from [da leader](https://www.instagram.com/terychi._?igsh=YzRtbnA4bjc4MTQ3)
+Metrolist by [@andrémiguel](https://www.instagram.com/chvxra_lx?igsh=OXBwcHE1cDE4cWEz), website by [@andrémiguel](https://www.instagram.com/chvxra_lx?igsh=OXBwcHE1cDE4cWEz)
