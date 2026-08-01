@@ -45,7 +45,6 @@ const links = [
   { label: 'Instagram', href: 'https://www.instagram.com/chvxra_lx?igsh=OXBwcHE1cDE4cWEz' },
   { label: 'Telegram', href: 't.me/Amiguel7' },
   { label: 'Flower', href: 'https://share.google/Ikma57SmoVvpPp7Tn' },
-  { label: 'Reinha', href: 'https://www.instagram.com/terychi._?igsh=YzRtbnA4bjc4MTQ3' },
 ]
 </script>
 
