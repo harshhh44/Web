@@ -20,7 +20,7 @@ export const FAQ_ITEMS: FaqItem[] = [
   },
   {
     question: 'Can I log in with my Google account?',
-    answer: 'Yes, Alva supports account login to sync your playlists and library. Other login methods include Last.fm and Discord',
+    answer: 'Yes, Alva supports account login to sync your playlists and library. Other login methods include Last.fm and Discord.',
   },
   {
     question: 'Is there an iOS version?',
